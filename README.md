@@ -1,7 +1,7 @@
 # KriptoParaTakip
 
 
-# Android Uygulama -(Java) kullanılarak oluşturulmuş bir kripto para takip uygulamasıdır. 
+Android Uygulama -(Java) kullanılarak oluşturulmuş bir kripto para takip uygulamasıdır. 
 
 <p >
 
